@@ -5,7 +5,7 @@ Estudante do Curso de Engenharia de Controle e Automação no Instituto Federal 
 
 # 🇺🇸
 
-I am a student in the Control and Automation Engineering program at the Federal Institute of Education, Science, and Technology of São Paulo, and I have a passion for data and artificial intelligence. I am always looking to learn more about how these technologies can transform processes and create innovative solutions. My interests encompass process automation, machine learning, and analyzing large volumes of data, with a focus on practical applications and technological innovation. Additionally, I am trying to reach out to John Connor to exchange ideas about the future, but he seems to have trouble responding to my emails!
+I am a student in the Control and Automation Engineering course at the Federal Institute of Education, Science, and Technology of São Paulo, and I have a passion for data and artificial intelligence. I am always looking to learn more about how these technologies can transform processes and create innovative solutions. My interests encompass process automation, machine learning, and analyzing large volumes of data, with a focus on practical applications and technological innovation. Additionally, I am trying to reach out to John Connor to exchange ideas about the future, but he seems to have trouble responding to my emails!
 
 <div style= "display: inline_block"><br>
  <img align = "center" alt = "Pedro-Python" height= "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
